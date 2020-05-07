@@ -1,8 +1,8 @@
 <?php
 
-namespace application\models;
+namespace Application\Models;
 
-use config\Config;
+use Config\Config;
 use PDO;
 
 class DBModel

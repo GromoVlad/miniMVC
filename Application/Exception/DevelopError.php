@@ -1,12 +1,12 @@
 <?php
 
-namespace application\Exception;
+namespace Application\Exception;
 
 class DevelopError extends ErrorHandler
 {
-    protected string $errorMessage;
-    protected string $errorFile;
-    protected string $errorLine;
+    protected $errorMessage;
+    protected $errorFile;
+    protected $errorLine;
 
     public function __construct($errorMessage)
     {

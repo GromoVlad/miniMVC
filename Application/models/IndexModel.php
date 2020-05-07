@@ -1,8 +1,8 @@
 <?php
 
-namespace application\models;
+namespace Application\Models;
 
-use config\Config;
+use Config\Config;
 
 class IndexModel
 {
@@ -12,8 +12,7 @@ class IndexModel
 
     public function __construct()
     {
-        $config = new Config();
-        $this->path = $config::APP_URL;
+         $this->path = Config::APP_URL;
     }
 
     public function render($file)

@@ -1,71 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9fbfb29-e920-456d-90bf-8785660b550e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="59c88ab9-2149-40eb-895f-013f52040a9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/forumedia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/forumedia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/Exception/DevelopError.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/DevelopError.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/Exception/ErrorHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/ErrorHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/Exception/ProductionError.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/ProductionError.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/FrontController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/FrontController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/IController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/IController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/DBModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/DBModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/HeaderModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/HeaderModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/models/IndexModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/IndexModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/404.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/develop.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/develop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/title.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/title.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/two.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/two.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7">
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1aV7Icl0SLXSdZEXAzSa3Neq3w3" />
+  <component name="ProjectId" id="1bZ0jaUHQikWKMocKg1RG47vSv3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\OpenServer\OSPanel\domains\forumedia\application\Exception" />
-      <recent name="D:\OpenServer\OSPanel\domains\forumedia\application\controllers" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\OpenServer\OSPanel\domains\forumedia\application\Exception" />
-      <recent name="D:\OpenServer\OSPanel\domains\forumedia\application\models" />
-      <recent name="D:\OpenServer\OSPanel\domains\forumedia\application\views" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9fbfb29-e920-456d-90bf-8785660b550e" name="Default Changelist" comment="" />
-      <created>1586808828932</created>
+      <changelist id="59c88ab9-2149-40eb-895f-013f52040a9f" name="Default Changelist" comment="" />
+      <created>1588824443452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586808828932</updated>
-      <workItem from="1586808830061" duration="812000" />
-      <workItem from="1586809865844" duration="10735000" />
-      <workItem from="1586850855142" duration="24164000" />
-      <workItem from="1586889146391" duration="183000" />
+      <updated>1588824443452</updated>
+      <workItem from="1588824444635" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

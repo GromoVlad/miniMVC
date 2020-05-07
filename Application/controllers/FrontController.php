@@ -1,8 +1,8 @@
 <?php
 
-namespace application\controllers;
+namespace Application\Controllers;
 
-use application\Exception\ErrorHandler;
+use Application\Exception\ErrorHandler;
 use Exception;
 use ReflectionClass;
 
@@ -24,7 +24,7 @@ class FrontController
         $request = $_SERVER['REQUEST_URI'];
         $splits = explode('/', trim($request, '/'));
         //Какой сontroller использовать?
-        $this->controller = !empty($splits[0]) ? 'application\\controllers\\' . ucfirst($splits[0]) . 'Controller' : 'application\\controllers\\IndexController';
+        $this->controller = !empty($splits[0]) ? 'Application\\Controllers\\' . ucfirst($splits[0]) . 'Controller' : 'Application\\Controllers\\IndexController';
         //Какой action использовать?
         $this->action = !empty($splits[1]) ? $splits[1] . 'Action' : 'indexAction';
         if (!empty($splits[2])) { //Есть ли параметры и их значения?
@@ -44,7 +44,7 @@ class FrontController
     {
         if (class_exists($this->getController())) {
             $rc = new ReflectionClass($this->getController());
-            if ($rc->implementsInterface('application\\controllers\\IController')) {
+            if ($rc->implementsInterface('Application\\Controllers\\IController')) {
                 if ($rc->hasMethod($this->getAction())) {
                     $controller = $rc->newInstance();
                     $method = $rc->getMethod($this->getAction());

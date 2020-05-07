@@ -1,8 +1,8 @@
 <?php
 
-namespace application\Exception;
+namespace Application\Exception;
 
-use config\Config;
+use Config\Config;
 
 class ProductionError extends ErrorHandler
 {
