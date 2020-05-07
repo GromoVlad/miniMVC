@@ -20,37 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59c88ab9-2149-40eb-895f-013f52040a9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/forumedia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/forumedia.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/Exception/DevelopError.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/DevelopError.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/Exception/ErrorHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/ErrorHandler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/Exception/ProductionError.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/ProductionError.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/FrontController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/FrontController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/IController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/IController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/controllers/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/DBModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/DBModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/HeaderModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/HeaderModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/models/IndexModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/IndexModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/404.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/develop.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/develop.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/title.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/title.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/two.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/views/two.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/Config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Exception/ProductionError.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Exception/ProductionError.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/models/DBModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Application/models/DBModel.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588824443452</updated>
-      <workItem from="1588824444635" duration="1372000" />
+      <workItem from="1588824444635" duration="1898000" />
     </task>
     <servers />
   </component>

@@ -6,10 +6,10 @@ use Config\Config;
 
 class ProductionError extends ErrorHandler
 {
-    protected string $errorMessage;
-    protected string $errorFile;
-    protected string $errorLine;
-    public string $appUrl;
+    protected $errorMessage;
+    protected $errorFile;
+    protected $errorLine;
+    public $appUrl;
 
     public function __construct($errorMessage)
     {

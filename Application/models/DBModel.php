@@ -31,8 +31,7 @@ class DBModel
         } else {
             $stmt->execute($category);
         }
-        $result = $stmt->fetchAll(PDO::FETCH_ASSOC);
-        return $result;
+        return $stmt->fetchAll(PDO::FETCH_ASSOC);
     }
 
     private function __clone()
